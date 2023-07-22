@@ -25,9 +25,6 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1017&layout=compact)](https://github.com/gws1017/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=gws1017)](https://solved.ac/gws1017)
-
 ### 🗂️Project
 
 <img src="https://img.shields.io/badge/DirectX 12-green?style=plastic&logo=directx&logoColor=green"/> \
