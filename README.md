@@ -1,7 +1,7 @@
 ### 👋Hi Welcome My Github Profile.
 
 <a href="https://superb-vase-003.notion.site/026abd8fbdf74a6aabbbc88d4bea0cf5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/NotionPortfolio-black?style=plastic&logo=notion&logoColor=#000000"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgws1017&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgws1017&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://github.com/gws1017)
 
 ### 👨‍🎓Educational History 
 TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
