@@ -12,6 +12,7 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 <img src="https://img.shields.io/badge/Unreal Engine 4/5-white?style=plastic&logo=unrealengine&logoColor=0E1128"/> <img src="https://img.shields.io/badge/DirectX 12-green?style=plastic&logo=directx&logoColor=green"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/> \
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/> <img src="https://img.shields.io/badge/Windows API-0078D6?style=plastic&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FFFFFF?style=plastic&logo=openjdk&logoColor=black"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/> \
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Lua-2C2D72?style=plastic&logo=Lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black">
 
 
 
@@ -34,6 +35,9 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=UE_ARPG)](https://github.com/gws1017/UE_ARPG)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Runner)](https://github.com/gws1017/Runner)
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"> \
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Unity_AdventureGame)](https://github.com/gws1017/Unity_AdventureGame)
 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Open_GL-TermProject)](https://github.com/gws1017/Open_GL-TermProject)
