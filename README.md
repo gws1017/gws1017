@@ -23,6 +23,8 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 ### 📝Stat
 ![gws1017 GitHub stats](https://github-readme-stats.vercel.app/api?username=gws1017&show_icons=true&theme=transparent)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={gws1017})](https://solved.ac/{gws1017})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1017&layout=compact)](https://github.com/gws1017/github-readme-stats)
 
