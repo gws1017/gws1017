@@ -38,6 +38,8 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Runner)](https://github.com/gws1017/Runner)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadending82&repo=Tiiiino)](https://github.com/sadending82/Tiiiino)
+
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Unity_AdventureGame)](https://github.com/gws1017/Unity_AdventureGame)
 
