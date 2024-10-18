@@ -43,7 +43,7 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadending82&repo=Tiiiino)](https://github.com/sadending82/Tiiiino)
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"> \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Unity_AdventureGame)](https://github.com/gws1017/Unity_AdventureGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=BlackPotion)](https://github.com/gws1017/BlackPotion)
 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Open_GL-TermProject)](https://github.com/gws1017/Open_GL-TermProject)
