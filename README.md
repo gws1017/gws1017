@@ -21,12 +21,8 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
  English (Intermediate)
 
 ### 📝Stat
-![gws1017 GitHub stats](https://github-readme-stats.vercel.app/api?username=gws1017&show_icons=true&theme=transparent)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gws1017)](https://solved.ac/gws1017)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1017&layout=compact)](https://github.com/gws1017/github-readme-stats)
+![gws1017 GitHub stats](https://github-readme-stats.vercel.app/api?username=gws1017&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gws1017&layout=compact)](https://github.com/gws1017/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gws1017)](https://solved.ac/gws1017) 
 
 ### 🗂️Project
 
@@ -34,16 +30,13 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Revive)](https://github.com/gws1017/Revive)
 
 <img src="https://img.shields.io/badge/Unreal Engine-white?style=plastic&logo=unrealengine&logoColor=0E1128"/> \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Harmagedon)](https://github.com/gws1017/Harmagedon)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadending82&repo=Tiiiino)](https://github.com/gws1017/Tiiiino)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Harmagedon&show_owner=true)](https://github.com/gws1017/Harmagedon) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Tiiiino)](https://github.com/gws1017/Tiiiino) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=UE_ARPG)](https://github.com/gws1017/UE_ARPG)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Runner)](https://github.com/gws1017/Runner)
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"> \
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=BlackPotion)](https://github.com/gws1017/BlackPotion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=BlackPotion&show_owner=true)](https://github.com/gws1017/BlackPotion)
 
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=plastic&logo=opengl&logoColor=white"/> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Open_GL-TermProject)](https://github.com/gws1017/Open_GL-TermProject)
