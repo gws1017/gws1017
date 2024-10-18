@@ -36,11 +36,11 @@ TECH UNIVERSITY OF KOREA - Bachelor of Engineering in Game
 <img src="https://img.shields.io/badge/Unreal Engine-white?style=plastic&logo=unrealengine&logoColor=0E1128"/> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Harmagedon)](https://github.com/gws1017/Harmagedon)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadending82&repo=Tiiiino)](https://github.com/gws1017/Tiiiino)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=UE_ARPG)](https://github.com/gws1017/UE_ARPG)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=Runner)](https://github.com/gws1017/Runner)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadending82&repo=Tiiiino)](https://github.com/sadending82/Tiiiino)
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=unity&logoColor=black"> \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gws1017&repo=BlackPotion)](https://github.com/gws1017/BlackPotion)
